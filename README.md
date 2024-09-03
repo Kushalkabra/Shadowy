@@ -1,5 +1,5 @@
-# [Anon - Anonymous School/Program Discussion Web App](https://anon-edu.vercel.app)
-Anon is a web application built using Next.js, Tailwind CSS, Radix UI, React Context, OAuth, and Prisma. It serves as a platform for users to discuss school or program-related topics anonymously, much like apps like Reddit and Blind. With Anon, users can share their thoughts, ask questions, and engage in conversations with others.
+# [Shadowy - Anonymous School/Program Discussion Web App]
+Shadowy is a web application built using Next.js, Tailwind CSS, Radix UI, React Context, OAuth, and Prisma. It serves as a platform for users to discuss school or program-related topics anonymously, much like apps like Reddit and Blind. With Shadowy, users can share their thoughts, ask questions, and engage in conversations with others.
 
 ## Features
 
@@ -16,4 +16,4 @@ Anon is a web application built using Next.js, Tailwind CSS, Radix UI, React Con
 <br>
 <br>
 
-![image](https://github.com/faizanraso/anon/assets/59986120/25b7aed0-728a-4f27-bc68-588fb12552a4)
+
