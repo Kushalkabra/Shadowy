@@ -12,10 +12,6 @@ Shadowy is a web application built using Next.js, Tailwind CSS, Radix UI, React 
 
 ![Screenshot 4](screenshots/photo4.png)
 
-![Screenshot 5](screenshots/photo5.png)
-
-![Screenshot 5](screenshots/photo6.png)
-
 
 ## Features
 
