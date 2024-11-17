@@ -1,6 +1,14 @@
 # [Shadowy - Anonymous School/Program Discussion Web App]
 Shadowy is a web application built using Next.js, Tailwind CSS, Radix UI, React Context, OAuth, and Prisma. It serves as a platform for users to discuss school or program-related topics anonymously, much like apps like Reddit and Blind. With Shadowy, users can share their thoughts, ask questions, and engage in conversations with others.
 
+## Screenshots
+![Screenshot 1](screenshots/sc2.png)
+![Screenshot 2](screenshots/sc3.png)
+![Screenshot 3](screenshots/sc4.png)
+![Screenshot 4](screenshots/sc1.png)
+![Screenshot 5](screenshots/sc5.png)
+
+
 ## Features
 
 <ul>
