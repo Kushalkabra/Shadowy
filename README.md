@@ -25,28 +25,6 @@ Shadowy is a web application built using Next.js, Tailwind CSS, Radix UI, React 
   <li><strong>Responsive Design</strong>: Ensuring a smooth and consistent user experience across various devices.</li>
 </ul>
 
-## **Getting Started**
-
-### **Prerequisites**
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) for dependency management.
-
----
-
-## **Installation**
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
-2. **Install dependencies: Using npm:**:
-   ```bash
-   npm install
-**Or using Yarn:**
-   ```bash
-    yarn install
-
 
    
 
